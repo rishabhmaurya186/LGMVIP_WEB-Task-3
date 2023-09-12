@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title{
+    background-color: rgb(100, 168, 168);
+    font-size: 24px;
+    text-align: center;
+    margin-top: 30px;
+    height: 40px;
+    padding-top: 8px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    
+}
+
+.main{
+    margin-top: 60px;
+    display: flex;
+
+
+}
+.in {
+    width: 60%;
+    font-size: 25px;
+    border-right: 4px solid rgb(23, 204, 236);
+    margin-left: 60px;
+}
+.stin{
+    height: 40px;
+    width: 270px;
+    border-radius: 10px;
+}
+.ad{
+    height: 500px;
+}
+.skill {
+    display: flex;
+    
+}
+.skill input{
+   width: 20px;
+   margin: 0px 10px 25px 10px;
+}
+.ss{
+    width: 20px;
+    height: 20px;
+}
+input{
+    font-size: 20px;
+    padding: 10px;    
+}
+.head{
+    width: 100vh;
+    font-size: 35px;
+    font-weight: 700;
+   
+    text-align: center;
+}
+.dataTable{
+    margin-left: 50px;
+    font-size: 20px;
+    border: 2px solid black;
+}
+.dataTable tr td{
+    border: 2px solid black;
+    padding: 15px;
+}
+
+.tth{
+    background-color: red;
+    padding-left: 10px;
+    border: 2px solid black;
+}
+.imgs{
+    width: 150px;
+    height: 150px;
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
